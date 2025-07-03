@@ -1,40 +1,40 @@
 # Patterns
 Pattern 1 - Right Triangle 
 * 
-** 
-*** 
-**** 
-***** 
+* * 
+* * * 
+* * * * 
+* * * * * 
 Pattern 2 - Left Triangle 
-* 
-** 
-*** 
-**** 
-***** 
+        * 
+      * *
+    * * * 
+  * * * * 
+* * * * * 
 Pattern 3 - Inverted Right Triangle 
-***** 
-**** 
-*** 
-** 
+* * * * * 
+* * * * 
+* * * 
+* * 
 * 
 Pattern 4 - Inverted Left Triangle 
-***** 
-**** 
-*** 
-** 
-* 
+* * * * * 
+  * * * * 
+    * * * 
+      * * 
+        * 
 Pattern 5 - Pyramid 
-* 
-*** 
-***** 
-******* 
+    * 
+   *** 
+  ***** 
+ ******* 
 ********* 
 Pattern 6 - Inverted Pyramid 
 ********* 
-******* 
-***** 
-*** 
-* 
+ ******* 
+  ***** 
+   ***
+    * 
 Pattern 7 - Diamond 
 * 
 *** 
